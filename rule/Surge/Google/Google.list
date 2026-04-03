@@ -702,6 +702,9 @@ DOMAIN-SUFFIX,zukunftswerkstatt.de
 DOMAIN-SUFFIX,zynamics.com
 DOMAIN-SUFFIX,googledrive.com
 DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,imap.gmail.com
+DOMAIN-SUFFIX,smtp.gmail.com
+DOMAIN-SUFFIX,gmail.com
 DOMAIN-KEYWORD,appspot
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,gmail
