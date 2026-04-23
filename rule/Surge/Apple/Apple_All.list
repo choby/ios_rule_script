@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,apple-ibooks.cn
 DOMAIN-SUFFIX,apple-inc.net
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple-maps.cn
+DOMAIN-SUFFIX,maps.apple
 DOMAIN-SUFFIX,apple-online.com
 DOMAIN-SUFFIX,apple-usa.net
 DOMAIN-SUFFIX,apple.ae
@@ -687,6 +688,7 @@ DOMAIN-SUFFIX,discountbeatsbydre-us.com
 DOMAIN-SUFFIX,discountbeatsstore.com
 DOMAIN-SUFFIX,discussionsapple.com
 DOMAIN-SUFFIX,dispatcher.is.autonavi.com
+DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,dkbeatsbydre.com
 DOMAIN-SUFFIX,dot-mac.de
 DOMAIN-SUFFIX,dotmac.de
