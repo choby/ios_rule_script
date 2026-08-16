@@ -17,3 +17,5 @@ DOMAIN-SUFFIX,epdg.epc.mnc010.mcc234.pub.3gppnetwork.org,no-resolve
 # CTE
 DOMAIN-SUFFIX, ct.ee.co.uk
 IP-CIDR, 31.94.0.0/16,no-resolve
+# lebara
+DOMAIN-SUFFIX, uk.lebara.mobi
