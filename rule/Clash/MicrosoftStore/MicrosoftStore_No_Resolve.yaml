@@ -15,3 +15,4 @@ payload:
   - DOMAIN-SUFFIX,microsoftstore.com.hk
   - DOMAIN-SUFFIX,onestore.ms
   - DOMAIN-SUFFIX,livefilestore.com
+  - DOMAIN-SUFFIX,dsx.mp.microsoft.com
