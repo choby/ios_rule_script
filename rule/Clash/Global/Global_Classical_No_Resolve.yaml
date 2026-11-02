@@ -6046,6 +6046,7 @@ payload:
   - DOMAIN-SUFFIX,classymomsex.com
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claude.app
   - DOMAIN-SUFFIX,claude.dev
   - DOMAIN-SUFFIX,claude.new
@@ -6056,6 +6057,15 @@ payload:
   - DOMAIN-SUFFIX,claudepages.dev
   - DOMAIN-SUFFIX,claudestudio.com
   - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN-SUFFIX,ant.dev
+  - DOMAIN-SUFFIX,antspace.dev
+  - DOMAIN-SUFFIX,anthropic.team
+  - DOMAIN-SUFFIX,chatbotclaude.com
+  - DOMAIN-SUFFIX,bun.sh
+  - DOMAIN-SUFFIX,bun.com
+  - DOMAIN-SUFFIX,mcp.run
+  - DOMAIN,servd-anthropic-website.b-cdn.net
+  - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,clc-london.ac.uk
   - DOMAIN-SUFFIX,clck.ru
